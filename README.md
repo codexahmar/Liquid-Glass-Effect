@@ -33,7 +33,7 @@ A beautiful Flutter application that demonstrates a customizable glass morphism 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/glass_effect.git
+git clone https://github.com/codexahmar/Liquid-Glass-Effect.git
 ```
 
 2. Navigate to the project directory:
@@ -93,9 +93,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## 👨‍💻 Author
 
-Your Name
+CodexAhmar
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@codexahmar](https://github.com/codexahmar)
 
 ## ⭐️ Show your support
 
