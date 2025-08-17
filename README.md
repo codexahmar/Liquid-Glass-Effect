@@ -12,13 +12,15 @@ A beautiful Flutter application that demonstrates a customizable glass morphism 
 
 ## 📱 Screenshots
 
-### Home Screen
+Here are some screenshots of the app:
 
-![Home Screen](Screenshots/home.png)
+| Home Screen | Control Panel |
+|------------|----------------|
+| <img src="Screenshots/home.png" width="250"/> | <img src="Screenshots/controls.png" width="250"/> |
 
-### Control Panel
+**Home Screen** – Main interface of the app  
+**Control Panel** – Admin/management panel for controlling app features
 
-![Control Panel](Screenshots/controls.png)
 
 ## 🚀 Getting Started
 
@@ -36,19 +38,13 @@ A beautiful Flutter application that demonstrates a customizable glass morphism 
 git clone https://github.com/codexahmar/Liquid-Glass-Effect.git
 ```
 
-2. Navigate to the project directory:
-
-```bash
-cd glass_effect
-```
-
-3. Install dependencies:
+2. Install dependencies:
 
 ```bash
 flutter pub get
 ```
 
-4. Run the app:
+3. Run the app:
 
 ```bash
 flutter run
@@ -82,25 +78,5 @@ This project demonstrates several advanced Flutter concepts:
 - Real-time animations
 - State management
 - Custom widget development
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](#).
-
-## 👨‍💻 Author
-
-CodexAhmar
-
-- GitHub: [@codexahmar](https://github.com/codexahmar)
-
-## ⭐️ Show your support
-
-Give a ⭐️ if this project helped you!
-
----
 
 Built with ❤️ using Flutter
